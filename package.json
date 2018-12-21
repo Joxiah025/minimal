@@ -1,0 +1,28 @@
+{
+  "name": "minimal",
+  "version": "1.0.0",
+  "description": "Minimal Jquery Form Validation plugin for your next project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blessed Josiah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joxiah025/minimal.git"
+  },
+  "keywords": [
+    "Jquery",
+    "Form",
+    "Validation",
+    "Minimal"
+  ],
+  "bugs": {
+    "url": "https://github.com/Joxiah025/minimal/issues"
+  },
+  "homepage": "https://github.com/Joxiah025/minimal#readme",
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
+}
