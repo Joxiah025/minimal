@@ -1,5 +1,5 @@
 {
-  "name": "minimal",
+  "name": "minimal-jquery",
   "version": "1.0.0",
   "description": "Minimal Jquery Form Validation plugin for your next project",
   "main": "index.js",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Joxiah025/minimal#readme",
   "dependencies": {
-    "jquery": "^2.1.3"
+    "jquery": ">=3.0.0"
   }
 }
